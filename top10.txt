@@ -1,0 +1,10 @@
+     11  emacs richardsonP1.cpp
+     12  emacs +211 richardsonP1.cpp
+     14  g++ richardsonL03.cpp -o L03.out
+     14  ./L03.out
+     16  cd cs210
+     17  cd ..
+     19  g++ richardsonL04.cpp -o L04.out
+     43  ./a.out
+     71  g++ richardsonP1.cpp -o a.out
+    205  ls
